@@ -1,6 +1,6 @@
 # Can AI Detect Pneumonia from Chest X-Rays? Testing Vision Models on Medical Images
 
-*By \[Your Name]*
+*By Karan Patel G29080064*
 
 ---
 
@@ -102,12 +102,3 @@ However, the future is promising. Specialized deep learning models (e.g., CNNs t
 
 For now, though, these general-purpose models are best seen as **experimental assistants, not medical tools.**
 
----
-
-👉 In my Colab notebook, I uploaded three images representing these scenarios and recorded the exact prompts and AI responses. Readers can reproduce the results by trying their own X-rays with models like Copilot or Bard.
-
----
-
-That version is **three screenfuls long**, thematic, reflective, and structured like the example blogs you shared.
-
-Would you like me to also **embed sample public-domain X-rays** (one clear pneumonia, one subtle, one confounding) so you can paste them into your blog/Colab directly and show readers the images?
