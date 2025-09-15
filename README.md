@@ -41,6 +41,10 @@ Then I tested a **control image** of a normal chest X-ray:
 
 ⚠️ **Reflection:** In real life, such “perfect” cases are rare. But this result shows that AI models can align with human intuition when abnormalities are large and obvious.
 
+<img width="210" height="280" alt="image" src="https://github.com/user-attachments/assets/6e1aaced-eb21-4a7c-800b-d36783e42856" />
+
+
+
 ---
 
 ## Scenario 2: Subtle / Borderline Pneumonia
@@ -57,6 +61,11 @@ Here I pushed the AI further: could it recognize early pneumonia with faint opac
 
 💡 **Hypothesis:** This weakness likely stems from the fact that general-purpose models are not trained on large sets of medical images. Subtle features in lungs are very different from the everyday images (cats, cars, landscapes) that make up most of their training.
 
+![person1649_bacteria_4377](https://github.com/user-attachments/assets/2f076c4d-962f-4b37-bc6f-43b475d03cce)
+
+
+
+
 ---
 
 ## Scenario 3: Confounding Cases
@@ -71,6 +80,8 @@ Finally, I tested the AI on an **abnormal but non-pneumonia** case: an X-ray wit
 This suggests that the model treats any deviation from “normal” lungs as pneumonia, instead of truly understanding the pathology.
 
 ⚠️ **Critical point:** In clinical practice, false positives can be dangerous — leading to unnecessary antibiotics or missed underlying conditions.
+
+![person1657_bacteria_4398](https://github.com/user-attachments/assets/bffec125-ff9b-45ac-a7ca-40028ee7e061)
 
 ---
 
