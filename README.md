@@ -41,7 +41,7 @@ Then I tested a **control image** of a normal chest X-ray:
 
 ⚠️ **Reflection:** In real life, such “perfect” cases are rare. But this result shows that AI models can align with human intuition when abnormalities are large and obvious.
 
-<img width="210" height="280" alt="image" src="https://github.com/user-attachments/assets/6e1aaced-eb21-4a7c-800b-d36783e42856" />
+![IM-0584-0001](https://github.com/user-attachments/assets/72960df2-4f8a-48e7-8559-7d51ffd371d4)
 
 
 
@@ -81,9 +81,8 @@ This suggests that the model treats any deviation from “normal” lungs as pne
 
 ⚠️ **Critical point:** In clinical practice, false positives can be dangerous — leading to unnecessary antibiotics or missed underlying conditions.
 
-![IM-0584-0001](https://github.com/user-attachments/assets/72960df2-4f8a-48e7-8559-7d51ffd371d4)
 
-
+<img width="210" height="280" alt="image" src="https://github.com/user-attachments/assets/6e1aaced-eb21-4a7c-800b-d36783e42856" />
 
 ---
 
