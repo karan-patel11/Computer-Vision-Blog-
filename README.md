@@ -61,7 +61,7 @@ Here I pushed the AI further: could it recognize early pneumonia with faint opac
 
 💡 **Hypothesis:** This weakness likely stems from the fact that general-purpose models are not trained on large sets of medical images. Subtle features in lungs are very different from the everyday images (cats, cars, landscapes) that make up most of their training.
 
-![person1649_bacteria_4377](https://github.com/user-attachments/assets/2f076c4d-962f-4b37-bc6f-43b475d03cce)
+![person1657_bacteria_4398](https://github.com/user-attachments/assets/bffec125-ff9b-45ac-a7ca-40028ee7e061)
 
 
 
@@ -81,7 +81,9 @@ This suggests that the model treats any deviation from “normal” lungs as pne
 
 ⚠️ **Critical point:** In clinical practice, false positives can be dangerous — leading to unnecessary antibiotics or missed underlying conditions.
 
-![person1657_bacteria_4398](https://github.com/user-attachments/assets/bffec125-ff9b-45ac-a7ca-40028ee7e061)
+![IM-0584-0001](https://github.com/user-attachments/assets/72960df2-4f8a-48e7-8559-7d51ffd371d4)
+
+
 
 ---
 
